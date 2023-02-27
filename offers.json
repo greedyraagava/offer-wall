@@ -1,0 +1,138 @@
+[
+  {
+    "offer_id": 1111,
+    "title": "Scribble & Doodle - Panda Draw",
+    "description": "Panda Draw - Scribble, draw it and guess! Easily draw on screen, create or submit your own doodle",
+    "icon_image": "https://i.postimg.cc/PJPZX95m/unnamed-7.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.oogwayapps.draw",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": false,
+    "payout": {
+      "currency": "sikka",
+      "amount": 10
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.draw"
+  },
+  {
+    "offer_id": 2222,
+    "title": "Age calculator, EMI & TAX Calc",
+    "description": "Pro Calculator- Age Calculator App. Calculate your age from anywhere and anytime calculate age by Date of birth and know you're exact age in years, days & months.",
+    "icon_image": "https://i.postimg.cc/jSdTDTb0/unnamed-2.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.oogwayapps.agecalculator",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 20
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.agecalculator"
+  },
+  {
+    "offer_id": 3333,
+    "title": "Number Ninja - Mental Math Qui",
+    "description": "Number Ninja is a free math quiz game offering a set of challenging puzzles & riddles to improve your math knowledge.",
+    "icon_image": "https://i.postimg.cc/Qd435z8B/unnamed-1.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.oogwayapps.number.ninja",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 25
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.number.ninja"
+  },
+  {
+    "offer_id": 4444,
+    "title": "CricFlix: Cricket Score & News",
+    "description": "Enjoy live cricket scores of IPL, PSL, BPL, BBL, CPL, ICC Cricket World Cup, County Championship, Ranji Trophy, Sheffield shield, and much more.",
+    "icon_image": "https://i.postimg.cc/tCzyRT8N/unnamed-5.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.cricflix.cricketscores",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 15
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.cricflix.cricketscores"
+  },
+  {
+    "offer_id": 5555,
+    "title": "Chop'em All : Katana Master",
+    "description": "Pick up the katana and chop fruit into half, sounds cool? Chop-em all Katana Master is a fun-filled fruit-fighting game with 3 dynamic modes that give you a thrilling experience.",
+    "icon_image": "https://i.postimg.cc/05DP3Zf3/unnamed-6.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.fruitninjacutter.chopshop",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": false,
+    "payout": {
+      "currency": "sikka",
+      "amount": 20
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.fruitninjacutter.chopshop"
+  },
+  {
+    "offer_id": 6666,
+    "title": "Strike Balls",
+    "description": "Strike Ball is as easy as it sounds, challenge yourselves to score three stars on every level, unlock higher levels and track your best scores!",
+    "icon_image": "https://i.postimg.cc/8PGNVWXC/unnamed-4.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.strikeballs.knockemall",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 30
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.strikeballs.knockemall"
+  },
+  {
+    "offer_id": 7777,
+    "title": "Word Crush",
+    "description": "This simple but classic game has made word puzzles fun like never before.",
+    "icon_image": "https://i.postimg.cc/BQQV6frx/unnamed-8.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.oogwayapps.wordcrush",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 30
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.wordcrush"
+  },
+  {
+    "offer_id": 8888,
+    "title": "Call break Club Game by Oogway",
+    "description": "Play the call break card game in both single and multiplayer modes.",
+    "icon_image": "https://i.postimg.cc/jdcCHP3p/unnamed-9.webp",
+    "offer_type": "CPI",
+    "android_package_name": "com.callbreak.teslaoogway.playcard",
+    "status": "ACTIVE",
+    "user_status": "NIL",
+    "is_trending": true,
+    "payout": {
+      "currency": "sikka",
+      "amount": 30
+    },
+    "requires_permission": true,
+    "cta_url": "https://play.google.com/store/apps/details?id=com.callbreak.teslaoogway.playcard"
+  }
+]
