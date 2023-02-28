@@ -11,7 +11,7 @@
     "is_trending": false,
     "payout": {
       "currency": "sikka",
-      "amount": 10
+      "amount": 100
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.draw"
@@ -28,7 +28,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 20
+      "amount": 90
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.agecalculator"
@@ -45,7 +45,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 25
+      "amount": 110
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.number.ninja"
@@ -62,7 +62,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 15
+      "amount": 100
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.cricflix.cricketscores"
@@ -79,7 +79,7 @@
     "is_trending": false,
     "payout": {
       "currency": "sikka",
-      "amount": 20
+      "amount": 150
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.fruitninjacutter.chopshop"
@@ -96,7 +96,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 30
+      "amount": 100
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.strikeballs.knockemall"
@@ -113,7 +113,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 30
+      "amount": 120
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.oogwayapps.wordcrush"
@@ -130,7 +130,7 @@
     "is_trending": true,
     "payout": {
       "currency": "sikka",
-      "amount": 30
+      "amount": 130
     },
     "requires_permission": true,
     "cta_url": "https://play.google.com/store/apps/details?id=com.callbreak.teslaoogway.playcard"
